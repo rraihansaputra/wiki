@@ -1,4 +1,6 @@
-# MacOS reSetup Guideline
+# macos
+
+MacOS reSetup Guideline
 
 ## resources for setting up
 **[dotfiles.github.io](https://dotfiles.github.io/)**  
@@ -65,7 +67,10 @@ install casks on these and rebackup Brewfile
 ```
 brew cask install alfred android-file-transfer caffeine coconutbattery disk-inventory-x divvy dupeguru firefox flux flycut google-chrome handbrake handbrakebatch iterm2 karabiner-elements mounty notion postman avibrazil-rdm rescuetime slimbatterymonitor steam steamcmd textexpander textmate transmission transmission-remote-gui visual-studio-code vscodium vlc vlc-webplugin vlcstreamer
 ```
-
+install quicklook packages
+```
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo
+```
 Get .dmgs for these apps:
 (move these to cask if possible)
 - Google Drive
