@@ -1,2 +1,2 @@
-# macos root boi
+# macos
  this is the root article
